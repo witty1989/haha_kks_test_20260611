@@ -1,2 +1,3 @@
 # haha_kks_test_20260611
-git test
+git test !!!!
+너무 어려워요
